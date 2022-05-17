@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 Read my blog: g.ziegenhain.com
+- 📫 Read my blog: <a href=g.ziegenhain.com>g.ziegenhain.com</a>
 
 
 <!--
